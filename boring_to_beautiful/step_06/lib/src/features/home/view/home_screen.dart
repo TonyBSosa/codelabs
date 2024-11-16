@@ -6,7 +6,6 @@ import 'package:adaptive_components/adaptive_components.dart';
 import 'package:flutter/material.dart';
 
 import '../../../shared/classes/classes.dart';
-import '../../../shared/extensions.dart';
 import '../../../shared/providers/providers.dart';
 import '../../../shared/views/views.dart';
 import '../../playlists/view/playlist_songs.dart';

@@ -3,7 +3,6 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import '../../shared/extensions.dart';
 import 'outlined_card.dart';
 
 class ImageCard extends StatelessWidget {

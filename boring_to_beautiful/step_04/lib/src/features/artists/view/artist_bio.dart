@@ -5,7 +5,6 @@
 import 'package:flutter/material.dart';
 
 import '../../../shared/classes/classes.dart';
-import '../../../shared/extensions.dart';
 
 class ArtistBio extends StatelessWidget {
   const ArtistBio({super.key, required this.artist});

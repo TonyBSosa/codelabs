@@ -8,7 +8,6 @@ import 'package:built_collection/built_collection.dart';
 import 'package:flutter/foundation.dart';
 
 import 'model.dart';
-import 'utils.dart';
 
 final _random = Random();
 

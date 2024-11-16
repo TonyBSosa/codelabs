@@ -12,7 +12,6 @@ import 'package:riverpod/riverpod.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 import 'model.dart' as model;
-import 'utils.dart';
 
 part 'providers.g.dart';
 

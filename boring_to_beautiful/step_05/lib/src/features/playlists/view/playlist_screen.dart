@@ -8,7 +8,6 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
 import '../../../shared/classes/classes.dart';
-import '../../../shared/extensions.dart';
 import '../../../shared/views/adaptive_image_card.dart';
 import '../../../shared/views/views.dart';
 import 'playlist_songs.dart';
